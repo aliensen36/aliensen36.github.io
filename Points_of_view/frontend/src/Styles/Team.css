@@ -1,0 +1,14 @@
+.team-container {
+    padding-top: 80px;
+    padding-bottom: 80px;
+    max-width: 880px;
+    margin-left: auto;
+}
+
+.team-subtitle {
+    color: var(--White);
+}
+
+.paragraph-team {
+    color: var(--White);
+}
